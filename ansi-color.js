@@ -7,7 +7,6 @@ const ANSIColorCode = {
     reverse: "\x1b[7m",
     hidden: "\x1b[8m",
 
-    blue: "\x1b[34m",
     black: "\x1b[30m",
     red: "\x1b[31m",
     green: "\x1b[32m",
