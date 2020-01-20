@@ -1,12 +1,20 @@
 {
-  "name": "ansi-color",
+  "name": "@hidari/ansi-color",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple module for coloring terminal output",
   "main": "ansi-color.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "hidari",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihidari/ANSIcolor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mihidari/ANSIcolor/issues"
+  },
+  "homepage": "https://github.com/Mihidari/ANSIcolor#readme"
 }
